@@ -1,0 +1,21 @@
+[2021-11-30 22:12:21] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 22:12:33] [ INFO ] [PacienteService:37] O paciente com id 3 foi deletado.
+[2021-11-30 22:15:47] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 22:15:58] [ INFO ] [PacienteService:37] O paciente com id 3 foi deletado.
+[2021-11-30 22:16:07] [ INFO ] [PacienteService:37] O paciente com id 1 foi deletado.
+[2021-11-30 22:16:07] [ INFO ] [PacienteService:37] O paciente com id 1 foi deletado.
+[2021-11-30 22:21:35] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 22:21:50] [ INFO ] [PacienteService:38] O paciente com id 1 foi deletado.
+[2021-11-30 22:45:19] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 22:45:40] [ INFO ] [PacienteService:38] O paciente com id 1 foi deletado.
+[2021-11-30 22:54:52] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 22:55:08] [ INFO ] [PacienteService:38] O paciente com id 1 foi deletado.
+[2021-11-30 23:35:31] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 23:36:07] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 23:36:52] [ INFO ] [PacienteService:33] O paciente com id 1 foi editado.
+[2021-11-30 23:36:52] [ INFO ] [PacienteService:21] Paciente inserido
+[2021-11-30 23:40:08] [ INFO ] [DentistaService:21] Dentista inserido
+[2021-11-30 23:40:48] [ INFO ] [DentistaService:21] Dentista inserido
+[2021-11-30 23:41:12] [ INFO ] [DentistaService:33] O dentista com id 2 foi editado.
+[2021-11-30 23:41:12] [ INFO ] [DentistaService:21] Dentista inserido
+[2021-11-30 23:41:54] [ WARN ] [DentistaService:42] O dentista com id 2 foi deletado.

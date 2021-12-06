@@ -1,0 +1,196 @@
+[2021-11-08 10:11:23] [ INFO ] [ServidorDentista:31] Atabela Dentista foi criada!
+[2021-11-08 10:11:24] [ INFO ] [ServidorDentista:48] O dentista Carol Hakamada foi incluído!
+[2021-11-08 10:11:24] [ INFO ] [ServidorDentista:48] O dentista Ailla Freire foi incluído!
+[2021-11-08 10:11:24] [ INFO ] [ServidorDentista:117] 
+--------------------
+ 35648LM 
+Carol 
+Hakamada 
+--------------------
+[2021-11-08 10:11:24] [ INFO ] [ServidorDentista:117] 
+--------------------
+ 33348LN 
+Ailla 
+Freire 
+--------------------
+[2021-11-08 10:15:01] [ INFO ] [ServidorDentista:31] A tabela Dentista foi criada!
+[2021-11-08 10:15:01] [ INFO ] [ServidorDentista:47] O dentista Carol Hakamada foi incluído!
+[2021-11-08 10:15:01] [ INFO ] [ServidorDentista:47] O dentista Ailla Freire foi incluído!
+[2021-11-08 10:15:01] [ INFO ] [ServidorDentista:116] 
+--------------------
+35648LM 
+Carol 
+Hakamada 
+--------------------
+[2021-11-08 10:15:01] [ INFO ] [ServidorDentista:116] 
+--------------------
+33348LN 
+Ailla 
+Freire 
+--------------------
+[2021-11-08 10:16:24] [ INFO ] [ServidorDentista:31] A tabela Dentista foi criada!
+[2021-11-08 10:16:24] [ INFO ] [ServidorDentista:47] O dentista Carol Hakamada foi incluído!
+[2021-11-08 10:16:24] [ INFO ] [ServidorDentista:47] O dentista Ailla Freire foi incluído!
+[2021-11-08 10:16:24] [ INFO ] [ServidorDentista:116] 
+--------------------
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 10:16:24] [ INFO ] [ServidorDentista:116] 
+--------------------
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 10:22:33] [ INFO ] [ServidorDentista:31] A tabela Dentista foi criada!
+[2021-11-08 10:22:34] [ INFO ] [ServidorDentista:125] 
+--------------------
+1 
+35648LM Carol 
+--------------------
+[2021-11-08 10:22:34] [ INFO ] [ServidorDentista:125] 
+--------------------
+2 
+33348LN Ailla 
+--------------------
+[2021-11-08 10:23:06] [ INFO ] [ServidorDentista:31] A tabela Dentista foi criada!
+[2021-11-08 10:23:06] [ INFO ] [ServidorDentista:125] 
+--------------------
+1 
+35648LM Carol 
+--------------------
+[2021-11-08 10:23:06] [ INFO ] [ServidorDentista:125] 
+--------------------
+2 
+33348LN Ailla 
+--------------------
+[2021-11-08 10:24:31] [ INFO ] [ServidorDentista:31] A tabela Dentista foi criada!
+[2021-11-08 10:24:31] [ INFO ] [ServidorDentista:56] O dentista Carol Hakamada foi incluído!
+[2021-11-08 10:24:31] [ INFO ] [ServidorDentista:56] O dentista Ailla Freire foi incluído!
+[2021-11-08 10:24:31] [ INFO ] [ServidorDentista:125] 
+--------------------
+1 
+35648LM Carol 
+--------------------
+[2021-11-08 10:24:31] [ INFO ] [ServidorDentista:125] 
+--------------------
+2 
+33348LN Ailla 
+--------------------
+[2021-11-08 12:21:07] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 12:21:07] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 12:21:07] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 12:21:07] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 12:21:07] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 12:21:55] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 12:21:55] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 12:21:55] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 12:21:55] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 12:21:55] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:57] O dentista Helena Perdigueiro foi incluído!
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 12:25:22] [ INFO ] [ServidorDentista:132] 
+--------------------
+3 
+35908AT 
+Helena Perdigueiro 
+--------------------
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:57] O dentista Helena Perdigueiro foi incluído!
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 12:45:47] [ INFO ] [ServidorDentista:132] 
+--------------------
+3 
+35908AT 
+Helena Perdigueiro 
+--------------------
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:57] O dentista Helena Perdigueiro foi incluído!
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 23:19:38] [ INFO ] [ServidorDentista:132] 
+--------------------
+3 
+35908AT 
+Helena Perdigueiro 
+--------------------
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:32] A tabela Dentista foi criada!
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:57] O dentista Carol Hakamada foi incluído!
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:57] O dentista Ailla Freire foi incluído!
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:57] O dentista Helena Perdigueiro foi incluído!
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:132] 
+--------------------
+1 
+35648LM 
+Carol Hakamada 
+--------------------
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:132] 
+--------------------
+2 
+33348LN 
+Ailla Freire 
+--------------------
+[2021-11-08 23:20:09] [ INFO ] [ServidorDentista:132] 
+--------------------
+3 
+35908AT 
+Helena Perdigueiro 
+--------------------

@@ -1,0 +1,85 @@
+[2021-10-29 09:01:01] [ INFO ] [Main:11] Estou funcionando
+[2021-10-29 09:31:00] [ INFO ] [Main:46] Estou funcionando
+[2021-10-29 09:31:42] [ INFO ] [Main:46] Estou funcionando
+[2021-10-29 09:35:10] [ INFO ] [Main:38] O usuário Felipe
+[2021-10-29 09:35:10] [ INFO ] [Main:44] Estou funcionando
+[2021-10-29 09:45:05] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:45:05] [ WARN ] [Main:53] Usuario Felipe Rosa
+[2021-10-29 09:45:05] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:45:05] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:45:05] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:45:05] [ INFO ] [Main:39] O usuário Felipe
+[2021-10-29 09:45:05] [ INFO ] [Main:45] Estou funcionando
+[2021-10-29 09:45:27] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:45:27] [ WARN ] [Main:53] Usuario Felipe Rosa
+[2021-10-29 09:45:27] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:45:27] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:45:27] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:45:27] [ INFO ] [Main:39] O usuário Felipe foi deletado
+[2021-10-29 09:45:27] [ INFO ] [Main:45] Estou funcionando
+[2021-10-29 09:46:17] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:46:17] [ WARN ] [Main:53] Usuario Felipe Rosa
+[2021-10-29 09:46:17] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:46:17] [ INFO ] [Main:37] O usuário Felipe foi deletado
+[2021-10-29 09:46:17] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-10-29 09:46:17] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-10-29 09:46:17] [ INFO ] [Main:45] Estou funcionando
+[2021-11-03 22:41:12] [ INFO ] [Main:45] Estou funcionando
+[2021-11-03 22:42:14] [ INFO ] [Main:45] Estou funcionando
+[2021-11-03 23:06:56] [ WARN ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:06:56] [ WARN ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:06:56] [ WARN ] [Main:39] org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:459)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:127)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:531)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:195)
+	at org.h2.command.dml.Insert.update(Insert.java:151)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:198)
+	at org.h2.command.Command.executeUpdate(Command.java:251)
+	at org.h2.server.TcpServerThread.process(TcpServerThread.java:406)
+	at org.h2.server.TcpServerThread.run(TcpServerThread.java:183)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[2021-11-03 23:06:56] [ WARN ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:06:56] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:07:21] [ WARN ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:07:21] [ WARN ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:07:21] [ WARN ] [Main:39] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+[2021-11-03 23:07:21] [ WARN ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:07:21] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:10:30] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:10:30] [ INFO ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:10:30] [ WARN ] [Main:39] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+[2021-11-03 23:10:30] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:10:30] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:20:46] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:20:46] [ INFO ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:20:46] [ WARN ] [Main:39] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+[2021-11-03 23:20:46] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:20:46] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:20:59] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:20:59] [ INFO ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:20:59] [ WARN ] [Main:39] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+[2021-11-03 23:20:59] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:20:59] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:21:38] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:21:38] [ INFO ] [Main:56] Usuario Felipe Rosa
+[2021-11-03 23:21:38] [ WARN ] [Main:39] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.USUARIO(ID) [1, 'Adryana', 'Portugal', 21]"; SQL statement:
+INSERT INTO Usuario (Id, primeiroNome, sobrenome, idade) VALUES (1, 'Vinicius', 'Mendes', 18) [23505-200]
+[2021-11-03 23:21:38] [ INFO ] [Main:56] Usuario Adryana Portugal
+[2021-11-03 23:21:38] [ INFO ] [Main:48] Estou funcionando
+[2021-11-03 23:38:23] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-11-03 23:38:23] [ WARN ] [Main:53] Usuario Felipe Rosa
+[2021-11-03 23:38:23] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-11-03 23:38:23] [ INFO ] [Main:37] O usuário Felipe foi deletado
+[2021-11-03 23:38:23] [ WARN ] [Main:53] Usuario Adryana Portugal
+[2021-11-03 23:38:23] [ WARN ] [Main:53] Usuario Vinicius Mendes
+[2021-11-03 23:38:23] [ INFO ] [Main:45] Estou funcionando

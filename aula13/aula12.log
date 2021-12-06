@@ -1,0 +1,105 @@
+[2021-11-03 10:15:19] [ INFO ] [ServidorH2:32] O usuário Felipe foi deletado
+[2021-11-03 10:23:40] [ INFO ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 10:53:32] [ WARN ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 12:38:47] [ INFO ] [ServidorH2:58] -------------------- 
+1
+[2021-11-03 12:38:47] [ WARN ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 12:42:47] [ INFO ] [ServidorH2:58] --------------------
+[2021-11-03 12:42:47] [ INFO ] [ServidorH2:59] --------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:42:47] [ WARN ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 12:44:00] [ INFO ] [ServidorH2:58] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:44:00] [ WARN ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 12:45:05] [ INFO ] [ServidorH2:58] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:45:05] [ INFO ] [ServidorH2:107] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:45:05] [ WARN ] [ServidorH2:42] O medicamento com o id 1 foi deletado
+[2021-11-03 12:52:16] [ INFO ] [ServidorH2:27] O medicamento com o id 1 foi deletado!
+[2021-11-03 12:52:16] [ INFO ] [ServidorH2:59] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:52:16] [ INFO ] [ServidorH2:108] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:52:16] [ WARN ] [ServidorH2:43] O medicamento com o id 1 foi deletado!
+[2021-11-03 12:52:47] [ INFO ] [ServidorH2:27] O medicamento Dorflex foi deletado!
+[2021-11-03 12:52:47] [ INFO ] [ServidorH2:59] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:52:47] [ INFO ] [ServidorH2:108] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:52:47] [ WARN ] [ServidorH2:43] O medicamento com o id 1 foi deletado!
+[2021-11-03 12:53:16] [ INFO ] [ServidorH2:27] O medicamento Dorflex foi incluído!
+[2021-11-03 12:53:16] [ INFO ] [ServidorH2:59] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:53:16] [ INFO ] [ServidorH2:108] 
+--------------------
+ 1 
+333454 
+Dorflex 
+NeoQuimica 
+15 
+8.5 
+--------------------
+[2021-11-03 12:53:16] [ WARN ] [ServidorH2:43] O medicamento com o id 1 foi deletado!

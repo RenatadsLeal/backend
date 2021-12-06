@@ -1,0 +1,105 @@
+[2021-11-03 23:47:02] [ INFO ] [Main:56] ---------------------------------
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 1 Renata Leal 22 CEO
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 2 Adryana Portugal 21 PO
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:47:02] [ INFO ] [Main:56] ---------------------------------
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 1 Renata Leal 22 CEO
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 2 Adryana Portugal 21 PO
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:47:02] [ INFO ] [Main:58] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:48:13] [ INFO ] [Main:62] ---------------------------------
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 1 Renata Leal 22 CEO
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 2 Adryana Portugal 21 PO
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:48:13] [ INFO ] [Main:62] ---------------------------------
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 1 Renata Leal 22 CEO
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 2 Adryana Portugal 21 PO
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:48:13] [ INFO ] [Main:64] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:48:13] [ WARN ] [Main:52] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, 'Estagiario']"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Pedro', 'Farencena', '29', 'Estagiario') [23505-200]
+[2021-11-03 23:49:52] [ INFO ] [Main:62] ---------------------------------
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 1 Renata Leal 22 CEO
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 2 Adryana Portugal 21 PO
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:49:52] [ INFO ] [Main:62] ---------------------------------
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 1 Renata Leal 22 CEO
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 2 Adryana Portugal 21 PO
+[2021-11-03 23:49:52] [ INFO ] [Main:64] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:49:52] [ WARN ] [Main:52] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, 'Estagiario']"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Pedro', 'Farencena', '29', 'Estagiario') [23505-200]
+[2021-11-03 23:52:07] [ INFO ] [Main:65] ---------------------------------
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 1 Renata Leal 22 CEO
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 2 Adryana Portugal 21 PO
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:52:07] [ INFO ] [Main:65] ---------------------------------
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 1 Renata Leal 22 CEO
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 2 Adryana Portugal 21 PO
+[2021-11-03 23:52:07] [ INFO ] [Main:67] 4 Pedro Farencena 29 Júnior
+[2021-11-03 23:52:07] [ WARN ] [Main:55] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, STRINGDECODE('J\u00fanior')]"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Pedro', 'Farencena', '29', 'Estagiario') [23505-200]
+[2021-11-03 23:54:23] [ INFO ] [Main:65] ---------------------------------
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 1 Renata Leal 22 CEO
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 2 Adryana Portugal 21 PO
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 3 Clarissa Farencena 23 PM
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 4 Pedro Farencena 29 Estagiario
+[2021-11-03 23:54:23] [ INFO ] [Main:65] ---------------------------------
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 1 Renata Leal 22 CEO
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 2 Adryana Portugal 21 PO
+[2021-11-03 23:54:23] [ INFO ] [Main:67] 4 Pedro Farencena 29 Júnior
+[2021-11-03 23:54:23] [ WARN ] [Main:55] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, STRINGDECODE('J\u00fanior')]"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Paulo', 'Dehon', '22', 'Estagiario') [23505-200]
+[2021-11-04 00:10:25] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:10:25] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:10:25] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:10:25] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:10:25] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:10:25] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:11:59] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:11:59] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:11:59] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:11:59] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:11:59] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:11:59] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:12:41] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:12:41] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:12:41] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:12:41] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:12:41] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:12:41] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:13:18] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:13:18] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:13:18] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:13:18] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:13:18] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:13:18] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:13:54] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:13:54] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:13:54] [ INFO ] [Main:85] 4 Pedro Farencena 29 Júnior
+[2021-11-04 00:13:54] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:13:54] [ INFO ] [Main:71] 4 Pedro Farencena 29 Júnior
+[2021-11-04 00:13:54] [ WARN ] [Main:59] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, STRINGDECODE('J\u00fanior')]"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Paulo', 'Dehon', '22', 'Estagiario') [23505-200]
+[2021-11-04 00:14:16] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 3 Clarissa Farencena 23 PM
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 4 Pedro Farencena 29 Estagiario
+[2021-11-04 00:14:16] [ INFO ] [Main:83] ---------------------------------
+[2021-11-04 00:14:16] [ DEBUG] [Main:85] 4 Pedro Farencena 29 Júnior
+[2021-11-04 00:14:16] [ INFO ] [Main:69] ---------------------------------
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 1 Renata Leal 22 CEO
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 2 Adryana Portugal 21 PO
+[2021-11-04 00:14:16] [ INFO ] [Main:71] 4 Pedro Farencena 29 Júnior
+[2021-11-04 00:14:16] [ WARN ] [Main:59] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.FUNCIONARIO(ID) [4, 'Pedro', 'Farencena', 29, STRINGDECODE('J\u00fanior')]"; SQL statement:
+INSERT INTO Funcionario(Id, Nome, Sobrenome, Idade, Cargo) VALUES (4, 'Paulo', 'Dehon', '22', 'Estagiario') [23505-200]
